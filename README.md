@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveer</h1>
 
 # 👻 About Me:
-🔭 I’m currently working on Discord Bots<br>👯 I’m looking to collaborate on discord testing-related content<br>🤝 I’m looking for help with developing discord Bots<br>🌱 I’m currently learning Node.js<br>⚡ Discord ID = Flash_0p
+🔭 I’m currently working on Discord Bots<br>👯 I’m looking to collaborate on discord testing-related content<br>🤝 I’m looking for help with developing discord Bots<br>🌱 I’m currently learning Node.js<br>⚡ Discord ID = Flash_0p>🚀 From INDIA
 
 
 ## 🌐 Socials:
