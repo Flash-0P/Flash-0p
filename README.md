@@ -29,6 +29,7 @@
 <a href="https://github.com/Mercy-Collective">
   <img src="https://skillicons.dev/icons?i=git,javascript,react,typescript,mysql,html,tailwindcss,nextjs,jquery,mongodb,php,nodejs,cs,vscode,css,dotnet,express,idea,java,linux,lua,nginx,powershell,py,sqlite" />
 </a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Flash-0p&icon=7&color=0)](https://visitcount.itsvg.in)
 
