@@ -23,13 +23,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Flash-0p&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 -->
 
-[![Join our Discord server](https://discordapp.com/api/guilds/815135254620143619/widget.png?style=banner2)](https://discord.gg/UqJCjyuV2P)
-
-## Coding Languages
-<a href="https://github.com/Mercy-Collective">
-  <img src="https://skillicons.dev/icons?i=git,javascript,react,typescript,mysql,html,tailwindcss,nextjs,jquery,mongodb,php,nodejs,cs,vscode,css,dotnet,express,idea,java,linux,lua,nginx,powershell,py,sqlite" />
-</a>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Flash-0p&icon=7&color=0)](https://visitcount.itsvg.in)
 
