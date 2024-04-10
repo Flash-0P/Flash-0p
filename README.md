@@ -2,6 +2,8 @@
 
 ##  About Me:
  I’m currently working on Discord Bots<br> I’m looking to collaborate on discord testing-related content<br> I’m looking for help with developing discord Bots<br> I’m currently learning Node.js<br> Discord ID = Flash_0p {From INDIA}
+
+Some projects I'm working on now include web tools and resources for the FiveM development community.
  
  [![Join our Discord server](https://discordapp.com/api/guilds/815135254620143619/widget.png?style=banner2)](https://discord.gg/UqJCjyuV2P)
 
