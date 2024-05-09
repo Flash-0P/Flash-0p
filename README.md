@@ -10,7 +10,7 @@ Some projects I'm working on now include web tools and resources for the FiveM d
 
 ## Coding Languages
 <a href="https://github.com/Flash-0p">
-  <img src="https://skillicons.dev/icons?i=javascript,html,c,cpp,css,bots,lua" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,c,cpp,css,lua,ts" />
 </a>
 
 ##  GitHub Stats:
